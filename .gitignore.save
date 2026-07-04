@@ -1,9 +1,0 @@
-venv/
-__pycache__/
-*.pyc
-.DS_Store
-.env
-data/raw/
-*.csv
-dbt_project/target/
-dbt_project/logs/
