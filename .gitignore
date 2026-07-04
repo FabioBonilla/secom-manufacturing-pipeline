@@ -8,4 +8,5 @@ data/raw/
 dbt_project/target/
 dbt_project/logs/
 .ipynb_checkpoints/
+data/ingested/
 
